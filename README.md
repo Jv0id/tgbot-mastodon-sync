@@ -59,6 +59,7 @@ Configure environment variables:
 先给系统配置环境变量
 
  `export TGBOT_MASTODON_SYNC_BOT_TOKEN=bot_token`
+ 
  `export TGBOT_MASTODON_SYNC_DATABASE_URL=/root/my_path/database.sqlite?mode=rwc`
 
 Run `tgbot-mastodon-sync`.
