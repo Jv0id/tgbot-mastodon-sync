@@ -12,6 +12,10 @@ Official hosted account: [@mastodon_sync_bot](https://t.me/mastodon_sync_bot)
 
 ### 1. Install binary
 
+首先安装安装 Rust 和 Cargo
+
+`wget https://static.rust-lang.org/rustup.sh && chmod +x rustup.sh && bash rustup.sh`
+
 You have two ways to install the binary.
 
 - Install from [crates.io](https://crates.io/) registry.
